@@ -6,11 +6,11 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ValutaOmregner")]
+[assembly: AssemblyTitle("Valuta Omregner")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ValutaOmregner")]
+[assembly: AssemblyProduct("Valuta Omregner")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -21,7 +21,7 @@ using System.Resources;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c25726d7-c1f0-4960-b90f-86c931c564d2")]
+[assembly: Guid("ed3c4021-3391-4da7-a9da-44d68fb331c4")]
 
 // Version information for an assembly consists of the following four values:
 //
