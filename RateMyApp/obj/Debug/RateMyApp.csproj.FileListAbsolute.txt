@@ -1,0 +1,212 @@
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\RateMyApp.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\RateMyApp.pdb
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\ar\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\da\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\de\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\en-GB\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\en-US\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\es\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\fi-FI\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\fr\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\he\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\hr-HR\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\hu-HU\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\it\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\lt-LT\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\nl\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\pl-PL\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\pt-BR\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\pt-PT\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\ro\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\sl-SI\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\Bin\Debug\zh-CN\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\Controls\FeedbackOverlay.g.cs
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.g.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.ar.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.da.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.de.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.en-GB.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.en-US.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.es.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.fi-FI.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.fr.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.he.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.hr-HR.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.hu-HU.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.it.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.lt-LT.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.nl.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.pl-PL.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.pt-BR.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.pt-PT.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.ro.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.sl-SI.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.zh-CN.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.csproj.GenerateResource.Cache
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\ar\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\da\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\de\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\en-GB\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\en-US\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\es\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\fi-FI\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\fr\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\he\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\hr-HR\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\hu-HU\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\it\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\lt-LT\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\nl\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\pl-PL\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\pt-BR\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\pt-PT\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\ro\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\sl-SI\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\zh-CN\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\UgeNr 8\RateMyApp\obj\Debug\RateMyApp.pdb
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\RateMyApp.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\RateMyApp.pdb
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\da-DK\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\ar\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\da\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\de\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\en-GB\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\en-US\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\es\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\fi-FI\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\fr\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\he\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\hr-HR\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\hu-HU\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\it\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\lt-LT\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\nl\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\pl-PL\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\pt-BR\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\pt-PT\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\ro\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\sl-SI\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\zh-CN\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\Controls\FeedbackOverlay.g.cs
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.g.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResource.da-DK.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.ar.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.da-DK.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.da.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.de.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.en-GB.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.en-US.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.es.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.fi-FI.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.fr.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.he.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.hr-HR.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.hu-HU.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.it.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.lt-LT.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.nl.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.pl-PL.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.pt-BR.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.pt-PT.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.ro.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.sl-SI.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.zh-CN.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.csproj.GenerateResource.Cache
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\da-DK\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\ar\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\da\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\de\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\en-GB\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\en-US\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\es\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\fi-FI\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\fr\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\he\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\hr-HR\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\hu-HU\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\it\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\lt-LT\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\nl\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\pl-PL\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\pt-BR\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\pt-PT\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\ro\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\sl-SI\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\zh-CN\RateMyApp.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.pdb
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\RateMyApp.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\RateMyApp.pdb
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\da-DK\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\ar\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\da\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\de\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\en-GB\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\en-US\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\es\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\fi-FI\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\fr\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\he\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\hr-HR\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\hu-HU\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\it\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\lt-LT\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\nl\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\pl-PL\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\pt-BR\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\pt-PT\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\ro\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\sl-SI\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\Bin\Debug\zh-CN\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\Controls\FeedbackOverlay.g.cs
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.g.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResource.da-DK.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.ar.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.da-DK.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.da.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.de.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.en-GB.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.en-US.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.es.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.fi-FI.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.fr.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.he.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.hr-HR.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.hu-HU.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.it.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.lt-LT.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.nl.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.pl-PL.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.pt-BR.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.pt-PT.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.ro.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.sl-SI.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.Resources.AppResources.zh-CN.resources
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.csproj.GenerateResource.Cache
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\da-DK\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\ar\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\da\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\de\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\en-GB\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\en-US\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\es\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\fi-FI\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\fr\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\he\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\hr-HR\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\hu-HU\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\it\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\lt-LT\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\nl\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\pl-PL\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\pt-BR\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\pt-PT\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\ro\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\sl-SI\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\zh-CN\RateMyApp.resources.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.dll
+E:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\RateMyApp\obj\Debug\RateMyApp.pdb

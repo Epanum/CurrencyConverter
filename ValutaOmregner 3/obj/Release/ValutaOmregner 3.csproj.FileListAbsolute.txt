@@ -1,0 +1,62 @@
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ApplicationIcon.png
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\Background.png
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ValutaOmregner 3.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ValutaOmregner 3.pdb
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\AppManifest.xaml
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ValutaOmregner_3.xap
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\HtmlAgilityPack.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\System.ServiceModel.Syndication.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\System.Xml.XPath.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\System.Xml.Serialization.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\System.Xml.Linq.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\HtmlAgilityPack.pdb
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\HtmlAgilityPack.xml
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\System.ServiceModel.Syndication.xml
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\System.Xml.XPath.xml
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\System.Xml.Serialization.xml
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\System.Xml.Linq.xml
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\de\System.ServiceModel.Syndication.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\es\System.ServiceModel.Syndication.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\fr\System.ServiceModel.Syndication.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\it\System.ServiceModel.Syndication.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ja\System.ServiceModel.Syndication.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ko\System.ServiceModel.Syndication.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ru\System.ServiceModel.Syndication.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\zh-Hans\System.ServiceModel.Syndication.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\zh-Hant\System.ServiceModel.Syndication.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\de\System.Xml.XPath.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\es\System.Xml.XPath.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\fr\System.Xml.XPath.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\it\System.Xml.XPath.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ja\System.Xml.XPath.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ko\System.Xml.XPath.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ru\System.Xml.XPath.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\zh-Hans\System.Xml.XPath.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\zh-Hant\System.Xml.XPath.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\de\System.Xml.Serialization.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\es\System.Xml.Serialization.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\fr\System.Xml.Serialization.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\it\System.Xml.Serialization.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ja\System.Xml.Serialization.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ko\System.Xml.Serialization.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ru\System.Xml.Serialization.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\zh-Hans\System.Xml.Serialization.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\zh-Hant\System.Xml.Serialization.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\de\System.Xml.Linq.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\es\System.Xml.Linq.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\fr\System.Xml.Linq.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\it\System.Xml.Linq.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ja\System.Xml.Linq.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ko\System.Xml.Linq.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\ru\System.Xml.Linq.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\zh-Hans\System.Xml.Linq.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\zh-Hant\System.Xml.Linq.resources.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\obj\Release\App.g.i.cs
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\obj\Release\DetailsPage.g.i.cs
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\obj\Release\MainPage.g.i.cs
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\obj\Release\ValutaOmregner 3.g.resources
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\obj\Release\ValutaOmregner 3.dll
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\obj\Release\ValutaOmregner 3.pdb
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\obj\Release\XapCacheFile.xml
+D:\Dropbox\Datamatiker\Programmering\MobilUdviklingWindowsPhone\ValutaOmregner\ValutaOmregner 3\Bin\Release\icons\appbar.refresh.rest.png
