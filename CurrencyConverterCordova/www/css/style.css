@@ -1,0 +1,38 @@
+/* Empty. Add your own CSS if you like */
+
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.currencyChooser {
+    background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0, #DCDCDC),
+	color-stop(1, #FEFEFE));
+    background-image: -o-linear-gradient(bottom, #DCDCDC 0%, #FEFEFE 100%);
+    background-image: -moz-linear-gradient(bottom, #DCDCDC 0%, #FEFEFE 100%);
+    background-image: -webkit-linear-gradient(bottom, #DCDCDC 0%, #FEFEFE 100%);
+    background-image: -ms-linear-gradient(bottom, #DCDCDC 0%, #FEFEFE 100%);
+    background-image: linear-gradient(to bottom, #DCDCDC 0%, #FEFEFE 100%);
+    
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+
+    border: 1px solid #C2C2C2
+}
+
+.currencyChooser > div > img {
+    height: 16px;
+    vertical-align: middle
+}
+
+.currencyChooser > div > span {
+    vertical-align: middle
+}

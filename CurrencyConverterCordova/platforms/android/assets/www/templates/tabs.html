@@ -1,0 +1,24 @@
+<!--
+Create tabs with an icon and label, using the tabs-stable style.
+Each tab's child <ion-nav-view> directive will have its own
+navigation history that also transitions its views in and out.
+-->
+<ion-tabs class="tabs-icon-top tabs-stable">
+
+  <!-- Dashboard Tab -->
+  <ion-tab title="Converter" icon-off="ion-ios-loop" icon-on="ion-ios-loop-strong" href="#/tab/converter">
+    <ion-nav-view name="tab-converter"></ion-nav-view>
+  </ion-tab>
+
+  <!-- Chats Tab -->
+  <ion-tab title="Exchange rates" icon-off="ion-ios-list-outline" icon-on="ion-ios-list" href="#/tab/exchangerates">
+    <ion-nav-view name="tab-exchangerates"></ion-nav-view>
+  </ion-tab>
+
+  <!-- Account Tab -->
+  <ion-tab title="Settings" icon-off="ion-ios-gear-outline" icon-on="ion-ios-gear" href="#/tab/settings">
+    <ion-nav-view name="tab-settings"></ion-nav-view>
+  </ion-tab>
+
+
+</ion-tabs>
